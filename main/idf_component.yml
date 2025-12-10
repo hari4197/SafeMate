@@ -1,0 +1,4 @@
+dependencies:
+  espressif/led_strip: "^3.0.0"
+  idf: ">=5.0"
+  espressif/esp_rainmaker: "^1.5.0"
