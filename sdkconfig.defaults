@@ -1,0 +1,5 @@
+# Target
+CONFIG_IDF_TARGET_ESP32C3=y
+
+# Make tick = 1 ms to align with assignment language
+CONFIG_FREERTOS_HZ=1000
